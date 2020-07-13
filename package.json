@@ -1,0 +1,39 @@
+{
+  "name": "avior-backend",
+  "version": "1.0.0",
+  "description": "Avior Is application for patient use to make exercise on time and complete stages and as per PT instructions and get relase from pain soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oneclick",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.7",
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "config": "^3.0.1",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.5.0",
+    "custom-env": "^1.0.0",
+    "es6-promise": "^4.2.5",
+    "eslint-plugin-disable": "^1.0.3",
+    "express": "^4.16.4",
+    "form-data": "^2.3.3",
+    "isomorphic-fetch": "^2.2.1",
+    "lower-case": "^1.1.4",
+    "multer": "^1.4.1",
+    "mysql2": "^1.6.4",
+    "node-cmd": "^3.0.0",
+    "nodemon": "^1.18.9",
+    "randomstring": "^1.1.5",
+    "s3fs": "^2.5.0",
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^5.5.0",
+    "validate": "^4.5.1"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.7",
+    "webpack": "^4.28.4"
+  }
+}
