@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": "*******",
+    "password": "Av10r123",
     "database": "avior",
-    "host": "******************************************",
+    "host": "sandbox-database.c9tifqxuh1z2.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "*******",
+    "password": "Av10r123",
     "database": "avior",
-    "host": "******************************************",
+    "host": "sandbox-database.c9tifqxuh1z2.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "*******",
+    "password": "Av10r123",
     "database": "avior",
-    "host": "******************************************",
+    "host": "sandbox-database.c9tifqxuh1z2.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
